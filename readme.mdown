@@ -1,5 +1,6 @@
 # Progress Logger
 
+Need to customise `settings.rb` file - is pretty obvious how.
 
 Added the following to .zshrc:
 

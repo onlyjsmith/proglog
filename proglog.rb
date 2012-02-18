@@ -1,7 +1,6 @@
 require 'crayon'
+require './settings.rb'
 
-@file = "progress.txt"
-@user = "JS"
 
 def recent
   if ARGV[1]
