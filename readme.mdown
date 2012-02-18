@@ -2,9 +2,11 @@
 
 
 Added the following to .zshrc:
+
   `alias pl='cd ~/Dv/WildSpot/proglog; ruby ./proglog.rb'`
 
 Now can do:
+  
   `pl a` list all log entries, or commits
   `pl r 3` list 3 recent entries
   `pl dug a ditch @outside` add a new commit
