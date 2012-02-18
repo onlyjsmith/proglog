@@ -1,4 +1,0 @@
-18 Feb 2012 15:13 [JS] wrote a progress logging app @unrelated
-18 Feb 2012 15:13 [JS] added wireframe for home page @hq
-18 Feb 2012 15:14 [JS] shared wireframes on DropBox @hq
-18 Feb 2012 15:14 [JS] compiled all notes/documents into one Google Doc @plans
