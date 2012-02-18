@@ -69,6 +69,8 @@ def interpret_arguments
     all
   when "a"
     all
+  when nil
+    all
   else
     add_commit
   end
